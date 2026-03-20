@@ -2,7 +2,7 @@
   "kpi": {
     "mttr": 0.8,
     "mtbf": 627,
-    "notifClosure": 90,
+    "notifClosure": 70,
     "workClosure": 80
   },
   "notificationDaily": {
@@ -10,7 +10,7 @@
     "rows": [
       {
         "date": "15/3/2026",
-        "open": 21999,
+        "open": 12,
         "actionRequired": 3,
         "accept": 4,
         "rejected": 0,
@@ -20,7 +20,7 @@
       },
       {
         "date": "16/3/2026",
-        "open": 100,
+        "open": 13,
         "actionRequired": 10,
         "accept": 7,
         "rejected": 56,
@@ -30,7 +30,7 @@
       },
       {
         "date": "17/3/2026",
-        "open": 1200,
+        "open": 14,
         "actionRequired": 10,
         "accept": 6,
         "rejected": 0,
