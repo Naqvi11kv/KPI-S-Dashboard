@@ -3,14 +3,14 @@
     "mttr": 0.8,
     "mtbf": 627,
     "notifClosure": 70,
-    "workClosure": 80
+    "workClosure": 95
   },
   "notificationDaily": {
     "title": "Notification Type M3 Date:18/03/2026",
     "rows": [
       {
         "date": "15/3/2026",
-        "open": 345,
+        "open": 355,
         "actionRequired": 3,
         "accept": 4,
         "rejected": 0,
@@ -20,7 +20,7 @@
       },
       {
         "date": "16/3/2026",
-        "open": 444,
+        "open": 87,
         "actionRequired": 10,
         "accept": 7,
         "rejected": 56,
@@ -30,7 +30,7 @@
       },
       {
         "date": "17/3/2026",
-        "open": 467,
+        "open": 900,
         "actionRequired": 10,
         "accept": 6,
         "rejected": 0,
