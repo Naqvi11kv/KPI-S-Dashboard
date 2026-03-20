@@ -10,7 +10,7 @@
     "rows": [
       {
         "date": "15/3/2026",
-        "open": 45,
+        "open": 200,
         "actionRequired": 3,
         "accept": 4,
         "rejected": 0,
