@@ -2,41 +2,41 @@
   "kpi": {
     "mttr": 0.8,
     "mtbf": 627,
-    "notifClosure": 70,
-    "workClosure": 95
+    "notifClosure": 89,
+    "workClosure": 90
   },
   "notificationDaily": {
-    "title": "Notification Type M3 Date:18/03/2026",
+    "title": "Notification Type M3 Date:28/03/2026",
     "rows": [
       {
-        "date": "15/3/2026",
-        "open": 10,
-        "actionRequired": 3,
-        "accept": 4,
+        "date": "25/3/2026",
+        "open": 0,
+        "actionRequired": 0,
+        "accept": 13,
         "rejected": 0,
-        "completed": 12,
-        "closure": 75,
-        "mttr": 0.5
-      },
-      {
-        "date": "16/3/2026",
-        "open": 20,
-        "actionRequired": 10,
-        "accept": 7,
-        "rejected": 56,
-        "completed": 33,
-        "closure": 83,
+        "completed": 23,
+        "closure": 64,
         "mttr": 0.6
       },
       {
-        "date": "17/3/2026",
-        "open": 20,
-        "actionRequired": 10,
-        "accept": 6,
+        "date": "26/3/2026",
+        "open": 0,
+        "actionRequired": 0,
+        "accept": 0,
         "rejected": 0,
-        "completed": 20,
-        "closure": 50,
-        "mttr": 0.7
+        "completed": 40,
+        "closure": 100,
+        "mttr": 0.43
+      },
+      {
+        "date": "27/3/2026",
+        "open": 2,
+        "actionRequired": 0,
+        "accept": 17,
+        "rejected": 0,
+        "completed": 17,
+        "closure": 47,
+        "mttr": 0.49
       }
     ]
   },
@@ -52,13 +52,13 @@
       "M8"
     ],
     "open": [
-      828,
+      866,
       17,
-      19,
+      12,
       0,
-      5,
+      4,
       2,
-      41,
+      60,
       0
     ],
     "actionRequired": [
@@ -72,13 +72,13 @@
       0
     ],
     "accepted": [
-      352,
+      368,
       35,
-      217,
+      264,
       0,
-      5,
+      6,
       0,
-      46,
+      49,
       1
     ],
     "rejected": [
@@ -92,24 +92,24 @@
       0
     ],
     "completed": [
-      2095,
+      2093,
       5755,
-      4896,
+      5054,
       7,
       29,
       4,
-      246,
+      244,
       6
     ],
     "closure": [
-      98,
+      63,
+      63,
+      95,
+      100,
+      74,
       67,
-      23,
-      56,
-      76,
-      23,
-      67,
-      34
+      69,
+      86
     ]
   },
   "workOrder": {
@@ -124,43 +124,43 @@
       "PM08"
     ],
     "total": [
-      2678,
-      432,
-      3590,
-      48,
-      28,
+      2692,
+      439,
+      3764,
+      49,
+      29,
       3,
       215,
       3
     ],
     "closed": [
-      2317,
+      2315,
       395,
-      3314,
+      3472,
       46,
       26,
       1,
-      199,
+      198,
       2
     ],
     "pending": [
-      361,
-      37,
-      276,
+      377,
+      44,
+      292,
+      3,
+      3,
       2,
-      2,
-      2,
-      16,
+      17,
       1
     ],
     "closure": [
-      87,
-      91,
+      86,
+      90,
       92,
-      96,
-      93,
+      94,
+      90,
       33,
-      93,
+      92,
       67
     ]
   }
